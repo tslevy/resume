@@ -1,1 +1,6 @@
 /* Add CSS rules to override Primer */
+
+@media print {
+    h2 { break-after: avoid; }
+    ul { break-inside: avoid; }
+}
