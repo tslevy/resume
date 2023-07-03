@@ -2,8 +2,15 @@
 title: Home
 ---
 
-# Talia Levy
-{: .h2-mktg .border-0 .mb-0}
+<div class="">
+  <div class="col-8 d-inline-block">
+    <h1 class="h2-mktg border-0 mb-0">Talia Levy</h1>
+  </div>
+  <div class="col-3 d-inline-block">
+    <p class="mb-1"><a href="mailto:talia@hey.com">talia@hey.com</a></p>
+    <p><a href="tel:1234567890">123-456-7890</a></p>
+  </div>
+</div>
 
 Punctual, attentive Student Assistant with 3+ years of experience managing information systems, organizing collected data and handling large-scale administrative duties in a fast-paced work environment.
 {: .lead .mt-0}
@@ -13,7 +20,7 @@ Punctual, attentive Student Assistant with 3+ years of experience managing infor
 
 <div class="border-bottom py-2">
   <div class="col-8 d-inline-block">
-    Talia’s Tutoring
+    <a href="https://taliastutoring.com/" class="link-mktg">Talia’s Tutoring</a>
   </div>
   <div class="col-3 d-inline-block">
     2018-present
@@ -99,8 +106,8 @@ Punctual, attentive Student Assistant with 3+ years of experience managing infor
 ## Extracurricular Activities
 {: .border-0 .mb-0 .mt-5 .h5-mktg}
 
-- Self-Development Blog (March 2023-present)
-- Money Moves for Teens Podcast (40 episodes)
+- [Self-Development Blog](https://world.hey.com/talia/) (March 2023-present)
+- [Money Moves for Teens Podcast](https://pglevy.github.io/mm4t-site/) (40 episodes)
 - Softball (9 years)
 - CrossFit (1 year)
 - Gym bro (4 days/week average)
