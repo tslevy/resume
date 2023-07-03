@@ -3,13 +3,13 @@ title: Home
 ---
 
 # Talia Levy
-{: .h2-mktg .border-0}
+{: .h2-mktg .border-0 .mb-0}
 
 Punctual, attentive Student Assistant with 3+ years of experience managing information systems, organizing collected data and handling large-scale administrative duties in a fast-paced work environment.
-{: .lead}
+{: .lead .mt-0}
 
 ## Work
-{: .border-0 .mb-0}
+{: .border-0 .mb-0 .h5-mktg}
 
 <div class="border-bottom py-2">
   <div class="col-8 d-inline-block">
@@ -30,7 +30,7 @@ Punctual, attentive Student Assistant with 3+ years of experience managing infor
 </div>
 
 ## School
-{: .border-0 .mb-0 .mt-5}
+{: .border-0 .mb-0 .mt-5 .h5-mktg}
 
 <div class="border-bottom py-2">
   <div class="col-8 d-inline-block">
@@ -60,7 +60,7 @@ Punctual, attentive Student Assistant with 3+ years of experience managing infor
 </div>
 
 ## Travel
-{: .border-0 .mb-0 .mt-5}
+{: .border-0 .mb-0 .mt-5 .h5-mktg}
 
 <div class="border-bottom py-2">
   <div class="col-8 d-inline-block">
@@ -90,14 +90,14 @@ Punctual, attentive Student Assistant with 3+ years of experience managing infor
 </div>
 
 ## Volunteering
-{: .border-0 .mb-0 .mt-5}
+{: .border-0 .mb-0 .mt-5 .h5-mktg}
 
 - Chabad Gainesville
 - Montclair Public Library
 - Girl Scouts
 
 ## Extracurricular Activities
-{: .border-0 .mb-0 .mt-5}
+{: .border-0 .mb-0 .mt-5 .h5-mktg}
 
 - Self-Development Blog (March 2023-present)
 - Money Moves for Teens Podcast (40 episodes)
@@ -106,7 +106,7 @@ Punctual, attentive Student Assistant with 3+ years of experience managing infor
 - Gym bro (4 days/week average)
 
 ## Skills
-{: .border-0 .mb-0 .mt-5}
+{: .border-0 .mb-0 .mt-5 .h5-mktg}
 
 - English (Native)
 - Spanish (Intermediate)
@@ -114,6 +114,6 @@ Punctual, attentive Student Assistant with 3+ years of experience managing infor
 - Very organized, attention to detail, 
 
 ## References
-{: .border-0 .mb-0 .mt-5}
+{: .border-0 .mb-0 .mt-5 .h5-mktg}
 
 Available upon request
