@@ -14,8 +14,13 @@
 </head>
 
 <body class="{% if page.body-style %}{{ page.body-style }}{% else %}p-3{% endif %}">
-  <main class="{% if page.main-style %}{{ page.main-style }}{% else %}container-md markdown-body{% endif %}">
+  <main class="{% if page.main-style %}{{ page.main-style }}{% else %}container-lg markdown-body{% endif %}">
+    <div class=""></div>
+    <div id="paper" class="color-bg-default my-6 p-6 mx-3 color-shadow-medium rounded-2">
+    
     {{ content }}
+  </div>
+  <div class=""></div>
   </main>
   <script src="assets/js/main.js"></script>
 </body>

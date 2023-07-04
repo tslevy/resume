@@ -1,12 +1,14 @@
 ---
 title: Home
+body-style: color-bg-subtle
+main-style: 
 ---
 
-<div class="">
-  <div class="col-8 d-inline-block">
-    <h1 class="h2-mktg border-0 mb-0">Talia Levy</h1>
+<div class="container clearfix">
+  <div class="col-12 col-md-8 float-left">
+    <h1 class="h2-mktg border-0 mb-0 mt-0">Talia Levy</h1>
   </div>
-  <div class="col-3 d-inline-block">
+  <div class="col-12 col-md-3 float-left">
     <p class="mb-1"><a href="mailto:talia@hey.com">talia@hey.com</a></p>
     <p><a href="tel:1234567890">123-456-7890</a></p>
   </div>

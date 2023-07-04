@@ -3,4 +3,14 @@
 @media print {
     h2 { break-after: avoid; }
     ul { break-inside: avoid; }
+    .color-shadow-medium {
+        box-shadow: none !important;
+    }
+    body, .color-bg-subtle {
+        background-color: white !important;
+    }
+    #paper {
+        margin-top: 0 !important;
+        margin-bottom: 0 !important;
+    }
 }
