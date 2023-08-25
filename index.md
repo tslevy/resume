@@ -14,7 +14,7 @@ main-style:
   </div>
 </div>
 
-Organized and motivated high school student with a 4.3 GPA and 5+ years of experience teaching math.
+Organized and motivated high school student with a 4.3 GPA and 5+ years of experience teaching math. Looking to use a positive attitude and patience with others to give customers a great experience.
 {: .lead .mt-0}
 
 ## Work
