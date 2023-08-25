@@ -126,7 +126,7 @@ Organized and motivated high school student with a 4.3 GPA and 5+ years of exper
 
 - [Self-Development Blog](https://world.hey.com/talia/) (March 2023-present)
 - [Money Moves for Teens Podcast](https://pglevy.github.io/mm4t-site/) (40 episodes)
-- Gym (4 days/week average)
+- Gym (3 days/week average)
 - Softball (9 years)
 - CrossFit (1 year)
 
