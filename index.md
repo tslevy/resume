@@ -134,6 +134,7 @@ Organized and motivated high school student with a 4.3 GPA and 5+ years of exper
 {: .border-0 .mb-0 .mt-5 .h5-mktg}
 
 - English (Native)
+- Spanish (Basic)
 - Attention to detail
 - Communication
 - Problem-solving
