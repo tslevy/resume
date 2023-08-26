@@ -10,11 +10,12 @@ main-style:
   </div>
   <div class="col-12 col-md-3 float-left">
     <p class="mb-1"><a href="mailto:talia@hey.com">talia@hey.com</a></p>
-    <p><a href="tel:5713592437">571-359-2437</a></p>
+    <p class="mb-1"><a href="tel:5713592437">571-359-2437</a></p>
+    <p><a href="https://tslevy.github.io/linkinbio/">tslevy.github.io/linkinbio/</a></p>
   </div>
 </div>
 
-Organized and motivated high school student with a 4.3 GPA and 5+ years of experience teaching math. Looking to use a positive attitude and patience with others to give customers a great experience.
+Organized and motivated high school student with 4.3 GPA and 5+ years of experience tutoring math. Looking to use a positive attitude and patience with others to give customers a great experience.
 {: .lead .mt-0}
 
 ## Work
@@ -31,10 +32,10 @@ Organized and motivated high school student with a 4.3 GPA and 5+ years of exper
 
 <div class="border-bottom py-2">
   <div class="col-8 d-inline-block">
-    Special projects intern at Swimkids
+    Special projects intern at SwimKids
   </div>
   <div class="col-3 d-inline-block">
-    Planned September 2023
+    Planned Fall 2023
   </div>
 </div>
 
@@ -116,19 +117,19 @@ Organized and motivated high school student with a 4.3 GPA and 5+ years of exper
   </div>
 </div>
 
-## Volunteering
-{: .border-0 .mb-0 .mt-5 .h5-mktg}
-
-- Jewish Chabad of Gainesville
-
 ## Extracurricular Activities
 {: .border-0 .mb-0 .mt-5 .h5-mktg}
 
-- [Self-Development Blog](https://world.hey.com/talia/) (March 2023-present)
+- [Self-Development Blog](https://world.hey.com/talia/)
 - [Money Moves for Teens Podcast](https://pglevy.github.io/mm4t-site/) (40 episodes)
-- Gym (3 days/week average)
+- Gym (3 days/week)
 - Softball (9 years)
 - CrossFit (1 year)
+
+## Volunteering
+{: .border-0 .mb-0 .mt-5 .h5-mktg}
+
+- Chabad Center for Jewish Life, Gainesville
 
 ## Skills
 {: .border-0 .mb-0 .mt-5 .h5-mktg}
