@@ -35,7 +35,16 @@ Organized and motivated high school student with 4.3 GPA and 5+ years of experie
     Special projects intern at SwimKids
   </div>
   <div class="col-3 d-inline-block">
-    Planned Fall 2023
+    2023-present
+  </div>
+</div>
+
+<div class="border-bottom py-2">
+  <div class="col-8 d-inline-block">
+    Front desk customer service at SwimKids
+  </div>
+  <div class="col-3 d-inline-block">
+    2023-present
   </div>
 </div>
 
