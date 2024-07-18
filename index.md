@@ -15,7 +15,7 @@ main-style:
   </div>
 </div>
 
-Organized and motivated high school student with 4.3 GPA and 5+ years of experience tutoring math. Looking to use a positive attitude and patience with others to give customers a great experience.
+Organized and motivated college student with 6+ years of experience tutoring math. Looking to use a positive attitude and patience with others to give customers a great experience.
 {: .lead .mt-0}
 
 ## Work
@@ -26,25 +26,34 @@ Organized and motivated high school student with 4.3 GPA and 5+ years of experie
     <a href="https://taliastutoring.com/" class="link-mktg">Talia’s Tutoring</a>
   </div>
   <div class="col-3 d-inline-block">
-    2018-present
+    April 2018-May 2024
   </div>
 </div>
 
 <div class="border-bottom py-2">
   <div class="col-8 d-inline-block">
-    Special projects intern at SwimKids
+    Marketing Intern at VDS Digital Agency
   </div>
   <div class="col-3 d-inline-block">
-    2023-present
+    January-May 2024
   </div>
 </div>
 
 <div class="border-bottom py-2">
   <div class="col-8 d-inline-block">
-    Front desk customer service at SwimKids
+    Special Projects Intern at SwimKids
   </div>
   <div class="col-3 d-inline-block">
-    2023-present
+    August 2023-March 2024
+  </div>
+</div>
+
+<div class="border-bottom py-2">
+  <div class="col-8 d-inline-block">
+    Front Desk Customer Service at SwimKids
+  </div>
+  <div class="col-3 d-inline-block">
+    September 2023-May 2024
   </div>
 </div>
 
@@ -53,10 +62,19 @@ Organized and motivated high school student with 4.3 GPA and 5+ years of experie
 
 <div class="border-bottom py-2">
   <div class="col-8 d-inline-block">
+    St. John's College
+  </div>
+  <div class="col-3 d-inline-block">
+    2024-Present
+  </div>
+</div>
+
+<div class="border-bottom py-2">
+  <div class="col-8 d-inline-block">
     Hylton High School GPA: 4.3
   </div>
   <div class="col-3 d-inline-block">
-    2020-present
+    2020-2024
   </div>
 </div>
 
@@ -65,7 +83,7 @@ Organized and motivated high school student with 4.3 GPA and 5+ years of experie
     Center for International Studies and Language Program
   </div>
   <div class="col-3 d-inline-block">
-    2021-present
+    2021-2024
   </div>
 </div>
 
@@ -74,7 +92,7 @@ Organized and motivated high school student with 4.3 GPA and 5+ years of experie
     Gifted Education
   </div>
   <div class="col-3 d-inline-block">
-    2012-present
+    2012-2024
   </div>
 </div>
 
@@ -131,7 +149,7 @@ Organized and motivated high school student with 4.3 GPA and 5+ years of experie
 
 - [Self-Development Blog](https://world.hey.com/talia/)
 - [Money Moves for Teens Podcast](https://pglevy.github.io/mm4t-site/) (40 episodes)
-- Gym (3 days/week)
+- Gym (4 days/week)
 - Softball (9 years)
 - CrossFit (1 year)
 
