@@ -32,6 +32,15 @@ Organized and motivated college student with 6+ years of experience tutoring mat
 
 <div class="border-bottom py-2">
   <div class="col-8 d-inline-block">
+    <a href="https://sites.google.com/view/talias-tutoring-startup-kit/" class="link-mktg">Talia’s Tutoring Startup Kit</a>
+  </div>
+  <div class="col-3 d-inline-block">
+    Dec 2023-May 2024
+  </div>
+</div>
+
+<div class="border-bottom py-2">
+  <div class="col-8 d-inline-block">
     Marketing Intern at VDS Digital Agency
   </div>
   <div class="col-3 d-inline-block">
