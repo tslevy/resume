@@ -26,7 +26,7 @@ Organized and motivated college student with 6+ years of experience tutoring mat
     <a href="https://taliastutoring.com/" class="link-mktg">Talia’s Tutoring</a>
   </div>
   <div class="col-3 d-inline-block">
-    April 2018-May 2024
+    Apr 2018-May 2024
   </div>
 </div>
 
@@ -35,7 +35,7 @@ Organized and motivated college student with 6+ years of experience tutoring mat
     Marketing Intern at VDS Digital Agency
   </div>
   <div class="col-3 d-inline-block">
-    January-May 2024
+    Jan 2024-May 2024
   </div>
 </div>
 
@@ -44,7 +44,7 @@ Organized and motivated college student with 6+ years of experience tutoring mat
     Special Projects Intern at SwimKids
   </div>
   <div class="col-3 d-inline-block">
-    August 2023-March 2024
+    Aug 2023-Mar 2024
   </div>
 </div>
 
@@ -53,7 +53,7 @@ Organized and motivated college student with 6+ years of experience tutoring mat
     Front Desk Customer Service at SwimKids
   </div>
   <div class="col-3 d-inline-block">
-    September 2023-May 2024
+    Sep 2023-May 2024
   </div>
 </div>
 
