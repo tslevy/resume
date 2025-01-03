@@ -23,7 +23,7 @@ Organized and motivated college student with 6+ years of experience tutoring mat
 
 <div class="border-bottom py-2">
   <div class="col-8 d-inline-block">
-    <a href="https://taliastutoring.com/" class="link-mktg">Talia’s Tutoring</a>
+    <a href="https://tslevy.github.io/taliastutoring/" class="link-mktg">Talia’s Tutoring</a>
   </div>
   <div class="col-3 d-inline-block">
     Apr 2018-May 2024
@@ -157,7 +157,7 @@ Organized and motivated college student with 6+ years of experience tutoring mat
 {: .border-0 .mb-0 .mt-5 .h5-mktg}
 
 - [Self-Development Blog](https://world.hey.com/talia/)
-- [Money Moves for Teens Podcast](https://pglevy.github.io/mm4t-site/) (40 episodes)
+- [Money Moves for Teens Podcast](https://tslevy.github.io/moneymovesforteens/) (40 episodes)
 - Gym (4 days/week)
 - Softball (9 years)
 - CrossFit (1 year)
