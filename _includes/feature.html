@@ -1,0 +1,12 @@
+{% for item in include.data %}
+<div class="grid">
+    <div>
+        <strong>{{ item.title }}</strong><br>
+        <small>{{ item.description }}</small>
+    </div>
+    <div>
+        {{ item.dates }}
+    </div>
+</div>
+<hr>
+{% endfor %}
