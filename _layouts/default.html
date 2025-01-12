@@ -11,7 +11,7 @@
   <link rel="stylesheet" href="assets/css/custom.css">
   <style>
     :root {
-      --pico-font-family-sans-serif: {{ site.data.settings.font }};
+      --pico-font-family-sans-serif: {% if site.data.settings.font %}{{ site.data.settings.font }}, {% endif %}-apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
     }
   </style>
 </head>
