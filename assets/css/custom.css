@@ -70,6 +70,9 @@ ul li {
     h2, h3 {
         font-size: 1.25rem;
     }
+    hgroup {
+        margin-bottom: var(--pico-typography-spacing-vertical);
+    }
     ul {
         break-inside: avoid;
     }
@@ -84,6 +87,6 @@ ul li {
         grid-template-columns: 4fr 1fr;
     }
     .print-only {
-        display: initial;
+        display: block;
     }
 }
