@@ -28,4 +28,4 @@ title: Home
 
 ### Volunteering
 
-- Chabad Center for Jewish Life, Gainesville, VA.
+- Chabad Center for Jewish Life, Gainesville, Va.

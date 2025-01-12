@@ -1,9 +1,12 @@
 article {
     padding: 2rem;
 }
+article > .grid:first-of-type {
+    align-items: end;
+}
 h3 {
-    margin-top: var(--pico-typography-spacing-top) * .5;
-    margin-bottom: var(--pico-typography-spacing-vertical) * .5;
+    margin-top: calc(var(--pico-typography-spacing-top) * 0.5);
+    margin-bottom: calc(var(--pico-typography-spacing-vertical) * 0.5);
 }
 h3 + ul > li {
     display: inline-block;
@@ -13,6 +16,12 @@ h3 + ul > li::after {
 }
 h3 + ul > li:last-of-type::after {
     content: "";
+}
+hgroup {
+    margin-bottom: 0;
+}
+hgroup > h1 {
+    margin-bottom: calc(var(--pico-typography-spacing-vertical) * 0.25);
 }
 ul {
     padding-left: 0;
@@ -25,11 +34,21 @@ ul li {
     max-width: 1200px;
 }
 .grid {
-    grid-template-columns: 4fr 1fr;
-    align-items: start;
+    grid-row-gap: calc(var(--pico-grid-row-gap) * 0.75);
 }
 .print-only {
     display: none;
+}
+
+@media (min-width: 768px) {
+    hgroup {
+        margin-bottom: var(--pico-typography-spacing-vertical);
+    }
+    .grid {
+        align-items: start;
+        grid-row-gap: var(--pico-grid-row-gap);
+        grid-template-columns: 4fr 1fr;
+    }
 }
 
 @media print {
@@ -58,6 +77,11 @@ ul li {
         margin: 0;
         max-width: 100%;
         padding: 0;
+    }
+    .grid {
+        align-items: start;
+        grid-row-gap: var(--pico-grid-row-gap);
+        grid-template-columns: 4fr 1fr;
     }
     .print-only {
         display: initial;
