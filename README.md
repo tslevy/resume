@@ -32,7 +32,7 @@ Use `index.md` to edit everything else. This is a regular markdown file that inc
 ## Work with site preview using the GitHub Codespaces remote dev environment
 This project is configured to work with Codespaces. This allows you work on variations of the site in a remote development environment in your browser so you can try things out without publishing directly to the live, `main` branch for edit you make.
 
-To use this option, select `Open in a codespace` from the `Code` menu button.
+To use this option, create a codespace from the `Code` menu button.
 
 This will launch a "virtual computer" running a temporary version of the site. Make changes and view them in the simple browser. When done, push your changes to GitHub. Then stop the codespace.
 
