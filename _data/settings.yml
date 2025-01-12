@@ -1,4 +1,4 @@
-# Set the language for the site. Used for "html lang." Default is English.
+# Set the language for the site. Used for "html lang." Default is U.S. English.
 lang: en-US
 
 # Set a plain language title for the site.

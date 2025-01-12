@@ -4,11 +4,11 @@ title: Home
 
 {% include header.html %}
 
-## Work
+## Experience
 
 {% include feature.html data=site.data.work %}
 
-## School
+## Education
 
 {% include feature.html data=site.data.school %}
 
