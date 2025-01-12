@@ -17,15 +17,15 @@ title: Home
 - France Student Exchange
 - Italy Student Exchange
 - Indonesia
+- Ireland
+- Costa Rica
 
 ### Extracurricular Activities
 
-- [Self-Development Blog](https://world.hey.com/talia/)
+- [Tutoring Startup Kit](https://sites.google.com/view/talias-tutoring-startup-kit/home)
 - [Money Moves for Teens Podcast](https://tslevy.github.io/moneymovesforteens/) (40 episodes)
-- Gym (4 days/week)
-- Softball (9 years)
-- CrossFit (1 year)
+- [Self-Development Blog](https://world.hey.com/talia/)
 
 ### Volunteering
 
-- Chabad Center for Jewish Life, Gainesville, Va.
+- Chabad Center for Jewish Life, Gainesville, VA.
