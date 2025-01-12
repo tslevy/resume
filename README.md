@@ -1,93 +1,44 @@
-# Plain Vanilla GitHub Pages README
-The purpose of this project is to make as easy as possible for less-technical people to create and host basic web pages for free on [GitHub Pages](https://pages.github.com/).
-
-[Check out my YouTube video on how to get started using this template](https://youtu.be/jlkHEmgQhGU)
+# Résumé Template
+The purpose of this project is to make as easy as possible for less-technical people to create and host a professional resume on GitHub Pages.
 
 ## Getting started
 
-### Copying the template and setting up publishing
-1. Press the `Use this template` button on the `Code` tab.
-1. Go to the `Settings` tab and then go to the `Pages` settings.
-1. Set the `Source` to `main` and press `Save`.
+All the content for the site can be editing using either the `_data` files or the `index.md` file.
 
-You'll see a URL show up, but the site takes a few minutes before it's actually live. In the meantime, try creating a page.
+### Configuring settings
 
-### Creating your first page
-1. Go to the `Code` tab.
-1. Press the `Add File` button and select `Create new file`.
-1. Name the page, for example, `first-page.md`. (Note the lack of spaces and the inclusion of the .md extension.)
-1. Add a title in the front matter:
-    ```
-    ---
-    title: First Page
-    ---
-    ```
-1. Add some content using [markdown](https://guides.github.com/features/mastering-markdown/) syntax. For example, you could start with a heading and paragraph like this:
-    ```
-    # First page
-    This is my first page.
-    ```
-5. Scroll down to the bottom of the page and press `Commit new file`.
+In `settings.yml`, you can edit the following:
 
-### Checking your page online
-1. On the Code tab, find and press the `Environments` link. (It may be in the right column.)
-1. On the next page (Deployments), press the `View deployment` button. (You should see the default homepage load.)
-1. In the address bar of the browser, add the name of your page _using the HTML extension_ and press return. For example: `first-page.html`. (The full address will be something like this: `https://pglevy.github.io/plain-vanilla-gh-pages/first-page.html`)
+- Title of site (appears in browser tab)
+- Site description (appears in search results and social previews)
+- Font (from Google Fonts)
+- Accent color (from Pico themes)
 
-You should see the new page you created.
+### Adding personal information
 
-## Next steps
-Now that you know how to create pages, here are some other things you can do:
-- Create more pages.
-- Update `index.md` (the homepage) with your own content.
-- Add links between pages so it works like a website.
-- Copy component code snippets from the [GitHub Primer design system](https://primer.style/css/components) to add more advanced functionality to your pages.
-- Customize your site language, title, and description in the `metadata.yml` file located in the `_data` folder.
+In `personal.yml`,  you can edit the following:
 
-## Default `body` and `main` styling classes
-- By default, the `body` element includes the `p-3` utility class from Primer. This adds some padding to the page on all sides.
-- The `main` element includes these two classes: `container-md` and `markdown-body`. The first one sets a maximum width for the content area and the second provides the default GitHub styling for Markdown content.
-- To override these, add these settings to the front matter of your content page: `body-style` and `main-style`.
+- Name and headline
+- Contact information (phone number only appears in print, not on live website, though it is still visible in page source)
 
-For example:
-```
-title: Home
-body-style: p-0
-main-style: container-lg
-```
+### Adding work and school content
 
-If you want to replace the defaults with nothing, do this:
-```
-title: My Page
-body-style: ""
-main-style: ""
-```
+Use `work.yml` and `school.yml` to add items for these sections. See the format included as a comment in those files. Links are optional.
 
-## GitHub Primer CSS framework
-This projects uses a local copy of the Primer CSS to enable work locally and/or offline. Note this copy may not be the latest version because it needs to be kept up-to-date manually. Alternatively, you can use the hosted version, which always references the current version.
+### Changing headings and adding additional content
 
-To switch to hosted CSS, replace this line in `_layouts/default.html`:
-```
-<link rel="stylesheet" href="assets/css/primer.css">
-```
-
-with this:
-```
-<link rel="stylesheet" href="https://unpkg.com/@primer/css/dist/primer.css">
-```
+Use `index.md` to edit everything else. This is a regular markdown file that includes all the headings and additional sections at the bottom. Use GitHub-flavored markdown to format content. The header, work, and school sections are imported when the site builds.
 
 ## Work with site preview using the GitHub Codespaces remote dev environment
-This project is configured to work with Codespaces. This allows you work on variations of the site in a remote dev environment in your browser so you can try things out without publishing directly to the live, `main` branch.
+This project is configured to work with Codespaces. This allows you work on variations of the site in a remote development environment in your browser so you can try things out without publishing directly to the live, `main` branch for edit you make.
 
-To use this option, select `Open in a codespace` from the `Use this template` menu button.
+To use this option, select `Open in a codespace` from the `Code` menu button.
 
-For more information, see the [GitHub documentation](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-from-a-template#creating-a-codespace-from-a-template-repository).
+This will launch a "virtual computer" running a temporary version of the site. Make changes and view them in the simple browser. When done, push your changes to GitHub. Then stop the codespace.
 
-## What to do if you're having problems
-- Try starting over with a new repository and follow the instructions again.
-- If it's still not working, [create an issue in the original Plain Vanilla GitHub Pages repo](https://github.com/lowcodelounge/plain-vanilla-gh-pages/issues), and I'll try to help.
+For more information, see the [GitHub documentation](https://docs.github.com/en/codespaces/developing-in-a-codespace/creating-a-codespace-for-a-repository).
 
 ## Credit and license
-This project was created using the [GitHub Pages gem for Jekyll](https://github.com/github/pages-gem). It is licensed under [The Unlicense](https://github.com/pglevy/plain-vanilla-gh-pages/blob/main/LICENSE), which allows everything and promises nothing. 😎
+This project was created using the [GitHub Pages gem for Jekyll](https://github.com/github/pages-gem) and [Pico CSS](https://picocss.com/).
 
 Favicon is `Soft Ice Cream` from [Twemoji](https://twemoji.twitter.com/), licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
