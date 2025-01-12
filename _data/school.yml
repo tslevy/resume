@@ -1,0 +1,13 @@
+#######################################
+# Format:
+# - title: item 1
+#   description: blurb about item 1
+#   dates: 2023–2024 (use en-dash)
+#   link: something.com (optional)
+#######################################
+- title: school 1
+  description: Studying the Great Books and engaging in discussion-based classes to improve my communication and critical thinking skills.
+  dates: 2023–2024
+- title: school 2
+  description: Studying the Great Books and engaging in discussion-based classes to improve my communication and critical thinking skills.
+  dates: 2023–2024

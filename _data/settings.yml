@@ -1,0 +1,14 @@
+# Set the language for the site. Used for "html lang." Default is U.S. English.
+lang: en-US
+
+# Set a plain language title for the site.
+title: Talia Levy’s Resume
+
+# Write a short description for the site. This is used for "meta description."
+description: Web version of my resume, built with Jekyll and Pico CSS, hosted on GitHub Pages
+
+# Choose a font from Google Fonts, e.g., Noto Sans
+font: Noto Sans
+
+# Choose a theme color from Pico CSS, e.g., indigo (See: https://picocss.com/docs/version-picker)
+theme: indigo

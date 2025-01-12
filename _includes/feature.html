@@ -1,0 +1,16 @@
+{% for item in include.data %}
+<div class="grid">
+    <div>
+        {% if item.link %}
+        <span style="font-weight: 600;"><a href="{{ item.link }}">{{ item.title }}</a></span><br>
+        {% else %}
+        <span style="font-weight: 600;">{{ item.title }}</span><br>
+        {% endif %}
+        <small>{{ item.description }}</small>
+    </div>
+    <div>
+        {{ item.dates }}
+    </div>
+</div>
+<hr>
+{% endfor %}

@@ -1,23 +1,65 @@
-/* Add CSS rules to override Primer */
+article {
+    padding: 2rem;
+}
+h3 {
+    margin-top: var(--pico-typography-spacing-top) * .5;
+    margin-bottom: var(--pico-typography-spacing-vertical) * .5;
+}
+h3 + ul > li {
+    display: inline-block;
+}
+h3 + ul > li::after {
+    content: " • ";
+}
+h3 + ul > li:last-of-type::after {
+    content: "";
+}
+ul {
+    padding-left: 0;
+}
+ul li {
+    list-style: none;
+}
+.container {
+    margin-top: 2rem;
+    max-width: 1200px;
+}
+.grid {
+    grid-template-columns: 4fr 1fr;
+    align-items: start;
+}
+.print-only {
+    display: none;
+}
 
 @media print {
-    h2 { break-after: avoid; }
-    ul { break-inside: avoid; }
-    .color-shadow-medium {
-        box-shadow: none !important;
+    :root {
+        font-size: 85%;
     }
-    body, .color-bg-subtle {
+    article {
+        margin-bottom: 0;
+        padding: 0;
+        background: none;
+        box-shadow: none;
+    }
+    body {
         background-color: white !important;
     }
-    #paper {
-        margin-top: 0 !important;
-        margin-bottom: 0 !important;
+    h2, h3 {
+        break-after: avoid;
     }
-    .markdown-body {
-        background-color: white !important;
-        font-size: .75rem !important;
+    h2, h3 {
+        font-size: 1.25rem;
     }
-    .lead {
-        font-size: .875rem !important;
+    ul {
+        break-inside: avoid;
+    }
+    .container {
+        margin: 0;
+        max-width: 100%;
+        padding: 0;
+    }
+    .print-only {
+        display: initial;
     }
 }

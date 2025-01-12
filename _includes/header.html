@@ -1,0 +1,11 @@
+<div class="grid">
+    <hgroup>
+      <h1>{{ site.data.personal.name }}</h1>
+      <p>{{ site.data.personal.headline }}</p>
+    </hgroup>
+    <ul>
+      <li><a href="mailto:{{ site.data.settings.email }}"><small>{{ site.data.personal.email }}</small></a></li>
+      <li class="print-only"><a href="tel:{{ site.data.personal.phone | remove: '-' }}"><small>{{ site.data.personal.phone }}</small></a></li>
+      <li><a href="https://{{ site.data.settings.website }}"><small>{{ site.data.personal.website }}</small></a></li>
+    </ul>
+</div>

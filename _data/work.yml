@@ -1,0 +1,20 @@
+#######################################
+# Format:
+# - title: item 1
+#   description: blurb about item 1
+#   dates: 2023–2024 (use en-dash)
+#   link: something.com (optional)
+#######################################
+- title: Special Projects Intern at SwimKids
+  description: Crafted interview questions, conducted customer interviews, wrote 8 success stories, and created mockups to incorporate feedback into the company’s website.
+  dates: 3–12/24
+  link: http://www.swimkids.us
+- title: Special Projects Intern at SwimKids
+  description: Crafted interview questions, conducted customer interviews, wrote 8 success stories, and created mockups to incorporate feedback into the company’s website.
+  dates: 2023–2024
+- title: Special Projects Intern at SwimKids
+  description: Crafted interview questions, conducted customer interviews, wrote 8 success stories, and created mockups to incorporate feedback into the company’s website.
+  dates: 2023–2024
+- title: Special Projects Intern at SwimKids
+  description: Crafted interview questions, conducted customer interviews, wrote 8 success stories, and created mockups to incorporate feedback into the company’s website.
+  dates: 2023–2024
