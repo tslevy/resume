@@ -23,7 +23,6 @@ title: Home
 ### Extracurricular Activities
 
 - [Tutoring Startup Kit](https://sites.google.com/view/talias-tutoring-startup-kit/home)
-- [Money Moves for Teens Podcast](https://tslevy.github.io/moneymovesforteens/) (40 episodes)
 - [Self-Development Blog](https://world.hey.com/talia/)
 
 ### Volunteering
