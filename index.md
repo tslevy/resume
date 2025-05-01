@@ -20,11 +20,6 @@ title: Home
 - Ireland
 - Costa Rica
 
-### Extracurricular Activities
-
-- [Tutoring Startup Kit](https://sites.google.com/view/talias-tutoring-startup-kit/home)
-- [Self-Development Blog](https://world.hey.com/talia/)
-
 ### Volunteering
 
 - Chabad Center for Jewish Life, Gainesville, Va.
