@@ -12,14 +12,6 @@ title: Home
 
 {% include feature.html data=site.data.school %}
 
-### Travel
-
-- France Student Exchange
-- Italy Student Exchange
-- Indonesia
-- Ireland
-- Costa Rica
-
 ### Volunteering
 
 - Chabad Center for Jewish Life, Gainesville, Va.
