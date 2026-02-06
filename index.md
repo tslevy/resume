@@ -12,6 +12,3 @@ title: Home
 
 {% include feature.html data=site.data.school %}
 
-### Volunteering
-
-- Chabad Center for Jewish Life, Gainesville, Va.
