@@ -6,7 +6,9 @@
 #   link: something.com (optional)
 #######################################
 - title: Operations & Marketing Intern | PYF Studio
-  description: Streamlined daily studio operations by building custom AI skills and automated client communication workflows within the Arketa platform, saving ownership significant time on repetitive tasks. Conducted business analysis on pricing strategy and new revenue opportunities to support data-informed growth decisions.
+  description: 
+  - Built custom AI skills and automated client-communication workflows in Arketa, reducing repetitive operational work for studio leadership.
+  - Analyzed pricing strategy and potential revenue streams to inform business-growth decisions.
   dates: May 2026–Aug 2026
 - title: Data Discovery Assistant, Office of the Chief Data Officer | St. John’s College
   description: Supported the Chief Data Officer in data discovery, organized datasets, drafted dashboards and visualizations using AI-assisted tools, collaborated on project direction through weekly meetings, and presented insights on post-graduation student success to Career Services.
